@@ -2,6 +2,6 @@
 
 For local compile and run:
 
-_`mvn clean install
+`mvn clean install`
 
-mvn gwt:run`_
+`mvn gwt:run`
